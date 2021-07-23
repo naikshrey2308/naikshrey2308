@@ -2,7 +2,7 @@
 
 <img src='https://github.com/naikshrey2308/naikshrey2308/blob/main/Github%20Background.png' width="100%" height="auto" />
 
-Hey there, I am Shrey Naik.
+<h3>Hey there, I am Shrey Naik.</h3>
 <hr />
 <!--
 **naikshrey2308/naikshrey2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
