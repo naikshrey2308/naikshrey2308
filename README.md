@@ -1,12 +1,9 @@
 ### Hi there, I'm Shrey Naik 👋💻
 
 <img src='https://github.com/naikshrey2308/naikshrey2308/blob/main/Github%20Background.png' width="100%" height="auto" />
-
-<hr />
-
 Hi there, I am student in Computer Science who is passionate about Web Development, Cyber Security and Ethical Hacking. I currently following my passions and trying to improve everyday. I worked on projects in which I showcased my skills in Web Development through PHP, HTML, CSS and JavaScript.
              
-<br/>
+<br/><br/>
 
 ### 💻 Currently Learning
 <hr/>
