@@ -2,7 +2,7 @@
 
 <img src='https://github.com/naikshrey2308/naikshrey2308/blob/main/Github%20Background.png' width="100%" height="auto" />
 
-<hr style='background-color: lightgrey;' />
+<hr style='background-color: red;' />
 
 
 <!--
