@@ -1,6 +1,6 @@
 ### Hi there, I'm Shrey Naik 👋💻
 
-<img src='https://avatars.githubusercontent.com/u/82115939?s=60&v=4' width="100%" height="auto" />
+<img src='https://github.com/naikshrey2308/naikshrey2308/blob/main/Github%20Background.png' width="100%" height="auto" />
 <!--
 **naikshrey2308/naikshrey2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
