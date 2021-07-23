@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Shrey Naik 👋 👨🏼‍💻
 
 <!--
 **naikshrey2308/naikshrey2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
