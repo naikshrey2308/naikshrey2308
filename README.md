@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shrey Naik</h1>
 <h3 align="center">A machine learning and data science enthusiast</h3>
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw2YhKYT0-821fUxEuw_uDet&ust=1703420171696000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCnpOTEpYMDFQAAAAAdAAAAABAI" width="100%" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naikshrey2308&label=Profile%20views&color=0e75b6&style=flat" alt="naikshrey2308" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naikshrey2308" alt="naikshrey2308" /></a> </p>
